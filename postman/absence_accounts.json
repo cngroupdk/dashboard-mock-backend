@@ -1,0 +1,72 @@
+{"id": "a5acb04e-9dbf-ef87-5f22-bcab04514e4c", "name": "absence_accounts", "timestamp": 1414056972148, "requests": [
+    {
+        "collectionId": "a5acb04e-9dbf-ef87-5f22-bcab04514e4c",
+        "id": "45eaaa24-8722-d152-33bf-cebc87a97fad",
+        "name": "absence_accounts_method_failed",
+        "description": "",
+        "url": "http://localhost:9292/api/v1/absence/accounts",
+        "method": "PUT",
+        "headers": "Accept: application/json, text/plain, */*\nContent-Type: application/json;charset=UTF-8\n",
+        "data": [],
+        "dataMode": "params",
+        "timestamp": 0,
+        "version": 2,
+        "time": 1414058743493
+    },
+    {
+        "collectionId": "a5acb04e-9dbf-ef87-5f22-bcab04514e4c",
+        "id": "46bd3d2b-2e04-9c92-de26-e20d7fddfcc4",
+        "name": "absence_accounts_method_failed",
+        "description": "",
+        "url": "http://localhost:9292/api/v1/absence/accounts",
+        "method": "POST",
+        "headers": "Accept: application/json, text/plain, */*\nContent-Type: application/json;charset=UTF-8\n",
+        "data": [],
+        "dataMode": "params",
+        "timestamp": 0,
+        "version": 2,
+        "time": 1414058738798
+    },
+    {
+        "collectionId": "a5acb04e-9dbf-ef87-5f22-bcab04514e4c",
+        "id": "8160c8f9-596b-c694-6302-4920b0bbe83e",
+        "name": "absence_accounts_method_failed",
+        "description": "",
+        "url": "http://localhost:9292/api/v1/absence/accounts",
+        "method": "DELETE",
+        "headers": "Accept: application/json, text/plain, */*\nContent-Type: application/json;charset=UTF-8\n",
+        "data": [],
+        "dataMode": "params",
+        "timestamp": 0,
+        "version": 2,
+        "time": 1414058746981
+    },
+    {
+        "collectionId": "a5acb04e-9dbf-ef87-5f22-bcab04514e4c",
+        "id": "c000d5d4-06dc-d8fb-d604-700381cfb7aa",
+        "name": "absence_accounts_successful",
+        "description": "",
+        "url": "http://localhost:9292/api/v1/absence/accounts/20140101",
+        "method": "GET",
+        "headers": "Accept: application/json, text/plain, */*\nContent-Type: application/json;charset=UTF-8\n",
+        "data": [],
+        "dataMode": "params",
+        "timestamp": 0,
+        "version": 2,
+        "time": 1414058733247
+    },
+    {
+        "collectionId": "a5acb04e-9dbf-ef87-5f22-bcab04514e4c",
+        "id": "e19babf0-f4d7-9667-d24b-a55ad7bc1056",
+        "name": "absence_accounts_param_failed",
+        "description": "",
+        "url": "http://localhost:9292/api/v1/absence/accounts/00133658",
+        "method": "GET",
+        "headers": "Accept: application/json, text/plain, */*\nContent-Type: application/json;charset=UTF-8\n",
+        "data": [],
+        "dataMode": "params",
+        "timestamp": 0,
+        "version": 2,
+        "time": 1414058728045
+    }
+]}
